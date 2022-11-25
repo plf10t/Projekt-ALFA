@@ -1,0 +1,7 @@
+To jest plik opisu projektu ALFA
+Projekt ALFA do testów konfiguracji połączenia z GitHub-em
+
+(c) Piotr Misiak, JMP 2022
+Utworzony: 25.11.2022
+===========================================================
+
